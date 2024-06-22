@@ -1,12 +1,12 @@
 [submodule "container"]
-  path = container
-  url = https://github.com/FOR-TIMI/container.git
+	path = container
+	url = https://github.com/FOR-TIMI/container.git
 [submodule "products"]
   path = products
   url = https://github.com/FOR-TIMI/products.git
 [submodule "orders"]
-  path = orders
-  url = https://github.com/FOR-TIMI/orders.git
+	path = orders
+	url = https://github.com/FOR-TIMI/orders.git
 [submodule "shared"]
-  path = shared
-  url = https://github.com/FOR-TIMI/shared.git
+	path = shared
+	url = https://github.com/FOR-TIMI/shared.git
