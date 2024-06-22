@@ -1,0 +1,16 @@
+{
+  "license": "MIT",
+  "name": "mfe-learn-ecommerce",
+  "version": "1.0.0",
+  "author": "FOR-TIMI <timiplayskeys@gmail.com>",
+  "private": true,
+  "workspaces": [
+    "container",
+    "profile",
+    "orders",
+    "shared"
+  ],
+  "scripts": {
+    "install": "yarn install --force"
+  }
+}
