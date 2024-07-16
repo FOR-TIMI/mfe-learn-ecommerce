@@ -7,6 +7,6 @@
 [submodule "orders"]
 	path = orders
 	url = https://github.com/FOR-TIMI/orders.git
-[submodule "shared"]
-	path = shared
-	url = https://github.com/FOR-TIMI/shared.git
+[submodule "bag"]
+	path = bag
+	url = https://github.com/FOR-TIMI/bag.git

@@ -6,11 +6,17 @@
   "private": true,
   "workspaces": [
     "container",
-    "profile",
+    "products",
     "orders",
-    "shared"
+    "bag"
   ],
   "scripts": {
-    "install": "yarn install --force"
+    "install": "yarn install --force",
+    "start": "yarn start:container",
+    "start:container": "yarn workspace container start",
+    "start:products": "yarn workspace products start",
+    "start:orders": "yarn workspace orders start",
+    "start:bag": "yarn workspace bag start",
+    "build": "yarn workspaces run build"
   }
 }
