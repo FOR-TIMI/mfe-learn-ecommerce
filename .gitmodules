@@ -4,9 +4,12 @@
 [submodule "products"]
 	path = products
 	url = https://github.com/FOR-TIMI/products.git
+	branch = main
 [submodule "orders"]
 	path = orders
 	url = https://github.com/FOR-TIMI/orders.git
+	branch = main
 [submodule "bag"]
 	path = bag
 	url = https://github.com/FOR-TIMI/bag.git
+	branch = main

@@ -23,6 +23,7 @@
     "noFallthroughCasesInSwitch": true, // Report errors for fallthrough cases in switch statement
     "baseUrl": "./",
     "paths": {
+      "*": ["./@mf-types/*"],
       "bag/*": ["./bag/src/*"],
       "Orders/*": ["./orders/src/*"],
       "Products/*": ["./products/src/*"]
